@@ -20,6 +20,12 @@ I enjoy learning how systems work, solving problems with code, and improving my 
 
 I am currently working on projects using **React, TypeScript, and Spring Boot**, learning how to design better APIs and build complete full-stack applications.
 
+<p align="center">
+<a href="https://www.linkedin.com/in/santiagolopezdev/">
+<img src="https://img.shields.io/badge/LinkedIn-Santiago%20Lopez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
 ---
 
 ## 🧩 What I Do
@@ -46,7 +52,6 @@ I am currently working on projects using **React, TypeScript, and Spring Boot**,
 
 <div align="center">
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45"/>
 <img width="10"/>
 
@@ -70,15 +75,9 @@ I am currently working on projects using **React, TypeScript, and Spring Boot**,
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
+
 </div>
-
----
-
-<p align="center">
-<a href="https://www.linkedin.com/in/santiagolopezdev/">
-<img src="https://img.shields.io/badge/LinkedIn-Santiago%20Lopez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
 
 ---
 
