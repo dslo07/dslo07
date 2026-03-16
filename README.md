@@ -5,7 +5,9 @@ Computer Engineering Student • Full-Stack Developer in Training
 </p>
 
 <p align="center">
-"If you don't build things, you only learn half of programming."
+<i>"We cannot solve our problems with the same thinking we used when we created them."</i>
+<br>
+<b>— Albert Einstein</b>
 </p>
 
 ---
@@ -35,13 +37,16 @@ I am currently working on projects using **React, TypeScript, and Spring Boot**,
 • **Backend architecture with Spring Boot**  
 • **Advanced TypeScript and modern frontend patterns**  
 • **API design and scalable web systems**
+• **AWS Services systems**
+
 
 ---
 
 ## 🧰 Tech Stack
 
 <div align="center">
-
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45"/>
 <img width="10"/>
 
