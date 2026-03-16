@@ -82,5 +82,5 @@ I am currently working on projects using **React, TypeScript, and Spring Boot**,
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/EijiDevs/EijiDevs/6c25b0fa5a42d9154d42d78ec7b49719fd1c0d11/blob/resources/img/grid-snake.svg"/>
 </p>
