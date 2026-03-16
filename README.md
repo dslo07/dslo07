@@ -1,61 +1,88 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi 👋 I'm Santiago Lopez</h1>
 
-###
+<p align="center">
+Software Engineering Student | Full-Stack Developer in Training
+</p>
 
-<p align="left">My name is Santiago Lopez and I'm a Software Engineering student, from Medellin / Colombia . I'm passionate about web development, coding, and solving complex problems!</p>
+<p align="center">
+Passionate about building web applications, solving problems with code, and learning new technologies.
+</p>
 
-###
+---
 
-<h2 align="left">About me</h2>
+<h2>🚀 About Me</h2>
 
-###
+<p>
+💻 I am a Software Engineering student focused on web development.<br>
+🌱 Currently learning backend development with <b>Spring Boot</b> and <b>Node.js</b>.<br>
+⚡ I enjoy building modern interfaces with <b>React</b> and <b>TypeScript</b>.<br>
+🎯 My goal is to become a <b>Full-Stack Developer</b> and work on real-world projects.<br>
+🧩 I like solving technical problems and improving my coding skills every day.
+</p>
 
-<p align="left">✨ Creating bugs since I wrote my first line of code!<br>📚 I'm currently learning backend development with Node.js and exploring new frontend frameworks.<br>🎯 My goal is to become a full-stack developer and contribute to open-source projects.<br>🎲 Fun fact: I love playing video games and solving puzzles in my free time!</p>
+---
 
-###
+<h2>🛠 Tech Stack</h2>
 
-<h2 align="left">I code with</h2>
+<div align="center">
 
-###
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45"/>
+<img width="10"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+<img width="10"/>
 
-<div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="bootstrap logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-    <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+
 </div>
 
+---
 
+<h2>📊 GitHub Activity</h2>
 
-###
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dslo07&show_icons=true&theme=tokyonight"/>
+</p>
 
-<h2 align="left">Find me on the web</h2>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dslo07&theme=tokyonight"/>
+</p>
 
-###
+---
 
-<div align="left">
-    <a href="https://www.linkedin.com/in/santiagolopezdev/"  target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-    </a>
-    <a href="https://www.instagram.com/dslo_07?igsh=N2V4YjdmdHZwemFi&utm_source=qr"  target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-    </a>
+<h2>🌐 Connect With Me</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/santiagolopezdev/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/dslo_07?igsh=N2V4YjdmdHZwemFi&utm_source=qr" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
 
-###
+---
 
-<br clear="both">
+<br>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
