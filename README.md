@@ -36,8 +36,8 @@ I am currently working on projects using **React, TypeScript, and Spring Boot**,
 
 • **Backend architecture with Spring Boot**  
 • **Advanced TypeScript and modern frontend patterns**  
-• **API design and scalable web systems**
-• **AWS Services systems**
+• **API design and scalable web systems**  
+• **AWS Services systems**  
 
 
 ---
