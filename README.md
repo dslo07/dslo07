@@ -1,27 +1,44 @@
 <h1 align="center">Hi 👋 I'm Santiago Lopez</h1>
 
 <p align="center">
-Computer Engineering Student | Full-Stack Developer in Training
+Computer Engineering Student • Full-Stack Developer in Training
 </p>
 
 <p align="center">
-Passionate about building web applications and solving real problems with code.
+"If you don't build things, you only learn half of programming."
 </p>
 
 ---
 
-<h2>🚀 About Me</h2>
+## 👨‍💻 About Me
 
-<p>
-💻 I am a <b>Computer Engineering student</b> focused on software development.<br>
-🌱 Currently learning backend development with <b>Spring Boot</b> and <b>Node.js</b>.<br>
-⚡ I enjoy building modern interfaces with <b>React</b> and <b>TypeScript</b>.<br>
-🎯 My goal is to become a <b>Full-Stack Developer</b> and work on impactful projects.
-</p>
+I am a **Computer Engineering student** passionate about software development and building real digital products.
+
+I enjoy learning how systems work, solving problems with code, and improving my technical skills every day. My main focus is **web development**, especially modern frontend applications and scalable backend services.
+
+I am currently working on projects using **React, TypeScript, and Spring Boot**, learning how to design better APIs and build complete full-stack applications.
 
 ---
 
-<h2>🛠 Tech Stack</h2>
+## 🧩 What I Do
+
+💻 Build modern web interfaces using **React and TypeScript**  
+⚙️ Develop backend services and APIs with **Java and Spring Boot**  
+🔗 Work with **REST APIs and backend integrations**  
+🧠 Continuously learn new technologies and improve coding practices  
+🚀 Build personal projects to strengthen my full-stack skills
+
+---
+
+## 🌱 Currently Learning
+
+• **Backend architecture with Spring Boot**  
+• **Advanced TypeScript and modern frontend patterns**  
+• **API design and scalable web systems**
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -58,8 +75,8 @@ Passionate about building web applications and solving real problems with code.
 </a>
 </p>
 
-<br>
+---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
