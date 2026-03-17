@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 I'm Santiago Lopez </h1>
 
 <p align="center">
-Computer Engineering Student • Full-Stack Developer in Training
+Computer Engineering Student • Full-Stack Developer 
 </p>
 
 <p align="center">
