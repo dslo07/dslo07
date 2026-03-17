@@ -61,7 +61,7 @@ I am currently working on projects using **React, TypeScript, and Spring Boot**,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
 <img width="10"/>
 
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.sv](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg)g" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45"/>
 <img width="10"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45"/>
